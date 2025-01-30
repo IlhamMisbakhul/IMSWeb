@@ -4,7 +4,7 @@
 The source code is the intellectual property of Indotek Mitra Sinergi and sharing it without their explicit permission would be a breach of our agreement.
 
 ## Company Profile Website Development
-I recently building a new website for a company called Indotek Mitra Sinergi (IMS). IMS is a new company founded in September 2024, I participated to build their company profile website using bootsrap and basic HTML, CSS and Javascript. For the hosting, I'm using hostinger to deploy the website. If you want to visit their website, you can click <a href="https://indotek-sinergi.com"> this link </a>
+I recently building a new website for a company called Indotek Mitra Sinergi (IMS). IMS is a new company founded in September 2024, I participated to build their company profile website using bootsrap and basic HTML, CSS and Javascript. For the hosting, I'm using hostinger to deploy the website. If you want to visit their website, you can click <a href="https://indotek-sinergi.com" target="blank"> this link </a>
 
 ## Documentation Of The Website
 <img src="Screenshot/1.png">
